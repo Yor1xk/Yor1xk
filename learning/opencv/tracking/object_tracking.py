@@ -3,7 +3,8 @@ import numpy as np
 import os
 import sys
 import matplotlib.pyplot as plt
-
+#GOTURN COFFEE MODEL WAS NOT PUSHED, SINCE IT EXCEEDED THE BASE LIMIT OF GITHUB DATA PER TRANSMIT. LINK TO DOWNLOAD IS THE FOLLOWING:
+#URL = r"https://www.dropbox.com/s/ld535c8e0vueq6x/opencv_bootcamp_assets_NB11.zip?dl=1"  
 
 #set up tracker
 tracker_types = [
